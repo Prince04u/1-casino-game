@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/fonts/
+
+Sitemap: https://1-casino.nl/sitemap.xml
